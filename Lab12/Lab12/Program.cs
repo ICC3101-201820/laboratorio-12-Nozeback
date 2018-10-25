@@ -22,6 +22,7 @@ namespace Lab12
             form1.OnAgregarComida += controlador.OnAgregarComida;
             form1.OnEliminarComida += controlador.OnEliminarComida;
             Application.Run(form1);
+            //form1.FormClosing+=controlador.Serializar();
         }
     }
 }

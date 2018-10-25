@@ -55,8 +55,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="OnAgregarComidasArgs.cs" />
-    <Compile Include="OnEliminarComidasArgs.cs" />
+    <Compile Include="OnCerrar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

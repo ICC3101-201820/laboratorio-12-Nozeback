@@ -55,10 +55,8 @@ namespace Lab12
         {
 
         }
-
         public void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-                        
         }
     }
 }
